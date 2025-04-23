@@ -1,4 +1,5 @@
 public class GreedySolver implements Solver {
+    @Override
     public String getName() {
         return "Greedy Best-First Search";
     }
@@ -13,6 +14,7 @@ public class GreedySolver implements Solver {
         }
     }
 
+    @Override
     public String[] solve(Board start) {
         MinHeap queue = new MinHeap(false); // false = min-heap
         long startTime = System.currentTimeMillis();

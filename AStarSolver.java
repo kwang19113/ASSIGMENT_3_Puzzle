@@ -1,9 +1,11 @@
 // AStarSolver.java
 public class AStarSolver implements Solver {
+    @Override
     public String getName() {
         return "A* Search";
     }
 
+    @Override
     public String[] solve(Board start) {
         MinHeap queue = new MinHeap(true);
         long startTime = System.currentTimeMillis();

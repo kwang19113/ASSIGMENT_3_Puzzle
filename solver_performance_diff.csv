@@ -1,0 +1,60 @@
+Difficulty,Solver,Time(ms),Steps
+1,Greedy Best-First Search,13,1
+1,A* Search,10,1
+1,Recursive Solver (depth=500),7,1
+2,Greedy Best-First Search,4,2
+2,A* Search,7,2
+2,Recursive Solver (depth=500),17,2
+3,Greedy Best-First Search,8,3
+3,A* Search,8,3
+3,Recursive Solver (depth=500),25,3
+4,Greedy Best-First Search,9,4
+4,A* Search,7,4
+4,Recursive Solver (depth=500),16,4
+5,Greedy Best-First Search,4,5
+5,A* Search,4,5
+5,Recursive Solver (depth=500),24,5
+6,Greedy Best-First Search,4,6
+6,A* Search,4,6
+6,Recursive Solver (depth=500),24,6
+7,Greedy Best-First Search,4,5
+7,A* Search,4,5
+7,Recursive Solver (depth=500),30,5
+8,Greedy Best-First Search,4,8
+8,A* Search,4,8
+8,Recursive Solver (depth=500),31,8
+9,Greedy Best-First Search,4,9
+9,A* Search,9,9
+9,Recursive Solver (depth=500),72,9
+10,Greedy Best-First Search,4,10
+10,A* Search,3,10
+10,Recursive Solver (depth=500),51,10
+11,Greedy Best-First Search,4,11
+11,A* Search,4,11
+11,Recursive Solver (depth=500),51,11
+12,Greedy Best-First Search,4,12
+12,A* Search,4,12
+12,Recursive Solver (depth=500),52,12
+13,Greedy Best-First Search,4,13
+13,A* Search,4,13
+13,Recursive Solver (depth=500),84,13
+14,Greedy Best-First Search,4,14
+14,A* Search,4,14
+14,Recursive Solver (depth=500),97,14
+15,Greedy Best-First Search,5,27
+15,A* Search,4,15
+15,Recursive Solver (depth=500),264,21
+16,Greedy Best-First Search,4,10
+16,A* Search,3,10
+16,Recursive Solver (depth=500),82,10
+17,Greedy Best-First Search,4,19
+17,A* Search,4,15
+17,Recursive Solver (depth=500),203,19
+18,Greedy Best-First Search,4,16
+18,A* Search,5,16
+18,Recursive Solver (depth=500),592,22
+19,Greedy Best-First Search,10,21
+19,A* Search,8,17
+19,Recursive Solver (depth=500),35715,33
+20,Greedy Best-First Search,13,78
+20,A* Search,4,20
