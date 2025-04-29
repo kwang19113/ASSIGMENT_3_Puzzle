@@ -13,7 +13,7 @@ public class PuzzleMain {
         Board start = new Board(inputArray);
 
         //INITIALIZE SOLVERS
-        Solver[] solvers = new Solver[]{new GreedySolver(), new AStarSolver(), new RecursiveSolver(500)};
+        Solver[] solvers = new Solver[]{new GreedySolver(), new AStarSolver()};
 
         for (int i = 0; i < solvers.length; i++) {
             Solver solver = solvers[i];
