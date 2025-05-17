@@ -1,0 +1,41 @@
+Iteration,Solver,Time(ms),Steps
+Iteration-1,Greedy Best-First Search,4,15
+Iteration-1,A* Search,5,15
+Iteration-2,Greedy Best-First Search,4,15
+Iteration-2,A* Search,4,15
+Iteration-3,Greedy Best-First Search,4,27
+Iteration-3,A* Search,4,15
+Iteration-4,Greedy Best-First Search,4,15
+Iteration-4,A* Search,5,15
+Iteration-5,Greedy Best-First Search,5,17
+Iteration-5,A* Search,6,15
+Iteration-6,Greedy Best-First Search,10,93
+Iteration-6,A* Search,4,15
+Iteration-7,Greedy Best-First Search,4,27
+Iteration-7,A* Search,4,15
+Iteration-8,Greedy Best-First Search,4,21
+Iteration-8,A* Search,4,15
+Iteration-9,Greedy Best-First Search,3,15
+Iteration-9,A* Search,3,15
+Iteration-10,Greedy Best-First Search,4,15
+Iteration-10,A* Search,4,15
+Iteration-11,Greedy Best-First Search,8,53
+Iteration-11,A* Search,4,15
+Iteration-12,Greedy Best-First Search,8,63
+Iteration-12,A* Search,4,15
+Iteration-13,Greedy Best-First Search,4,15
+Iteration-13,A* Search,4,15
+Iteration-14,Greedy Best-First Search,4,21
+Iteration-14,A* Search,4,15
+Iteration-15,Greedy Best-First Search,7,13
+Iteration-15,A* Search,5,13
+Iteration-16,Greedy Best-First Search,4,25
+Iteration-16,A* Search,4,15
+Iteration-17,Greedy Best-First Search,4,11
+Iteration-17,A* Search,5,11
+Iteration-18,Greedy Best-First Search,4,15
+Iteration-18,A* Search,4,15
+Iteration-19,Greedy Best-First Search,4,15
+Iteration-19,A* Search,5,15
+Iteration-20,Greedy Best-First Search,4,15
+Iteration-20,A* Search,4,15
