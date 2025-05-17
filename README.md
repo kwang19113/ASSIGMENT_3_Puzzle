@@ -68,11 +68,10 @@ Implements open-addressing for fast lookup and dynamic resizing
 ```bash
 mvn clean package
 ```
-2. Run the Solver
-bash
-Copy
-Edit
+### 2. Run the Solver
+```bash
 java -jar target/puzzle-solver-1.0.0.jar
+```
 This runs the app.PuzzleMain class as defined in your pom.xml.
 
 ## 📊 Benchmarking & Analysis
