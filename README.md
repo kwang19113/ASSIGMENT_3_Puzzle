@@ -2,13 +2,13 @@
 ## Algorithms and Analysis / Data Structure & Algorithms
 
 
-### Nguyen Minh Anh - S4141357
+### Nguyen Minh Anh  S4141357
 
 ### Vo Ngoc Dung S4124370
 
 ### Tang Hoang Ha S4147768 
 
-### Tran Vinh Khang 3855823
+### Tran Vinh Khang S3855823
 This project is a Java-based solver for the classic 15-puzzle game, implemented as part of the **Algorithms and Analysis / Data Structures & Algorithms** course at **RMIT**.
 
 The goal of this assignment is to apply informed search techniques to efficiently solve a 4x4 sliding tile puzzle. The solver is capable of using two popular pathfinding strategies:
